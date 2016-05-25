@@ -1,0 +1,10 @@
+[ 4061.322355] cfg80211:   (2474000 KHz - 2494000 KHz @ 20000 KHz), (N/A, 2000 mBm), (N/A)
+[ 4061.322358] cfg80211:   (4910000 KHz - 4990000 KHz @ 40000 KHz), (N/A, 2300 mBm), (N/A)
+[ 4061.322361] cfg80211:   (5030000 KHz - 5090000 KHz @ 40000 KHz), (N/A, 2300 mBm), (N/A)
+[ 4061.322364] cfg80211:   (5170000 KHz - 5250000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (N/A)
+[ 4061.322368] cfg80211:   (5250000 KHz - 5330000 KHz @ 80000 KHz, 160000 KHz AUTO), (N/A, 2000 mBm), (0 s)
+[ 4061.322371] cfg80211:   (5490000 KHz - 5710000 KHz @ 160000 KHz), (N/A, 2300 mBm), (0 s)
+[ 4061.322374] cfg80211:   (59000000 KHz - 66000000 KHz @ 2160000 KHz), (N/A, 1000 mBm), (N/A)
+[ 5482.830023] systemd[1]: apt-daily.timer: Adding 7h 44min 59.649950s random time.
+[ 5483.679449] systemd[1]: apt-daily.timer: Adding 6h 4min 41.692093s random time.
+[11174.979129] perf interrupt took too long (2906 > 2500), lowering kernel.perf_event_max_sample_rate to 50000
